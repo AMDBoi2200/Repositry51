@@ -1,0 +1,14 @@
+.YTimg {
+	height: 300px;
+}
+
+.IMG {
+	height: 300%;
+	border: 5px black solid;
+	margin: 5px;
+}
+
+.YT {
+	height: 310px;
+	border: 5px cyan solid;
+}
